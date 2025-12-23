@@ -1,0 +1,2 @@
+pending = 'pending'
+processing = 'processing'
